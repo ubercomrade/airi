@@ -1,6 +1,6 @@
 # MHCII Peptide Binding Affinity Prediction
 
-![AIRI School Logo](https://airi.net/images/logo.png) *(Optional: Add project-related image or logo)*
+![AIRI School Logo](logo.png) 
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ This repository contains the work done as part of the AIRI School program, focus
 
 ## Key Features
 
-- **ESM-2 Embeddings**: Utilizes state-of-the-art protein language model embeddings as features
+- **ESMC 600m**: Utilizes state-of-the-art protein language model embeddings as features
 - **Advanced Architectures**:
   - Attention-based models to capture interaction patterns
   - Graph neural networks to model structural relationships
@@ -52,14 +52,14 @@ Our approach combines:
 
 - Python 3.8+
 - PyTorch
-- ESM protein language model
+- ESMC protein language model
 
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/mhcii-binding-prediction.git
-cd mhcii-binding-prediction
-pip install -r requirements.txt
+git clone https://github.com/ubercomrade/airi.git
+cd airi
+conda env create -f environment.yml
 ```
 
 ## Usage
@@ -86,23 +86,4 @@ pip install -r requirements.txt
 
 ## Results
 
-*(Optional: Add key findings or performance metrics here)*
-
-## Contributors
-
-- [Your Name](https://github.com/yourusername) - AIRI School participant
-- Project mentors from AIRI
-
-## Acknowledgments
-
-- AIRI for the educational opportunity
-- Facebook AI Research for the ESM model
-- All dataset providers
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-*For more details about the AIRI School program, visit [airi.net](https://airi.net)*
+For a detailed description of our work, please refer to the project report
