@@ -24,7 +24,7 @@ This repository contains the work done as part of the AIRI School program, focus
 |------|-------------|
 | `arch_testing.ipynb` | Architecture selection and experimentation notebook |
 | `data_preparation.ipynb` | Initial data processing and cleaning |
-| `embedding_generation.ipynb` | ESM-2 embedding generation pipeline |
+| `embedding_generation.ipynb` | ESMС embedding generation pipeline |
 | `Interpretation_of_NNs.ipynb` | Model interpretation and analysis tools |
 
 *(Note: Fixed typo in "embending_generation.ipynb" to "embedding_generation.ipynb")*
