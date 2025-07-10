@@ -86,4 +86,4 @@ conda env create -f environment.yml
 
 ## Results
 
-For a detailed description of our work, please refer to the project report
+For a detailed description of our work, please refer to the [project report](Team_14_2__Prediction_of_peptide_MHC_interaction_affinity-3.pdf)
