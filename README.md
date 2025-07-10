@@ -34,7 +34,7 @@ This repository contains the work done as part of the AIRI School program, focus
 Our approach combines:
 
 1. **Feature Extraction**:
-   - Used ESM-2 (Evolutionary Scale Modeling) to generate meaningful protein representations
+   - Used ESMC (Evolutionary Scale Modeling) to generate meaningful protein representations
    - Processed embeddings to capture relevant interaction features
 
 2. **Model Architectures**:
